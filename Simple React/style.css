@@ -1,0 +1,41 @@
+h1, p {
+  font-family: Lato;
+}
+button{background: #ff4584 #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  outline: none;
+  width: 35%;
+  cursor: pointer;
+  font-weight: 250;
+  border-radius: 30px;
+}
+div{
+  text-align: center;
+}
+.resize_fit_center {
+  max-width:50%;
+  max-height:50%;
+  vertical-align: middle;
+}
+.input{
+  width: 35%;
+  height: 5px;
+  padding: 10px 20px;
+  outline: none;
+  font-weight: 150;
+  border: 1px solid #607d8b;
+  font-size: 16px;
+  letter-spacing: 1px;
+  color: #607d8b;
+  background: transparent;
+  border-radius: 30px;
+}
+button:hover{
+  background: #a4aedd;
+}
